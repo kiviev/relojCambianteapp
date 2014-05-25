@@ -5,14 +5,15 @@
 
 body{
 	background: rgba(230,230,230,0.7);
-	font-family: 'Kavoon' verdana;
+	font-family: 'Kavoon', impact , verdana;
 	font-size: 20px;
 }
 footer{
 	background: rgba(100,100,100,0.9);
 	width: 100%;
 	position: fixed;
-	bottom: 0;
+	bottom: 0;	
+	text-align: center;
 }
 footer a{
 	text-decoration: none;
